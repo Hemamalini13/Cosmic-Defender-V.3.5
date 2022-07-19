@@ -1,0 +1,30 @@
+{
+  "__version__": "1.0.2",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "EnemyShip"
+      },
+      {
+        "index": 2,
+        "name": "Projectile"
+      },
+      {
+        "index": 3,
+        "name": "EnemyProjectile"
+      },
+      {
+        "index": 4,
+        "name": "SpaceShip"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 20,
+      "2": 2,
+      "3": 16,
+      "4": 10
+    }
+  }
+}
